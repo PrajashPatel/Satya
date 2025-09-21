@@ -1,8 +1,5 @@
 # Satya – AI-Powered Misinformation Detection
 
-[![Project Status: WIP – Initial development is in progress, and upcoming versions will include more unique features.][wip-shield]][wip-url]
-[![License: MIT][license-shield]][license-url]
-
 Satya is an easy-to-use, AI-powered platform designed to empower Indian youth to identify and combat the spread of digital misinformation. By providing quick credibility analysis and evidence-based verdicts, Satya aims to foster a more informed and critical digital citizenry.
 
 **Live Demo (Prototype):** https://satya-bay.vercel.app/
