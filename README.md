@@ -3,11 +3,7 @@
 ## 📌 Project Info
 *Goal:* Empower Indian youth to identify and combat misinformation using an AI-powered, easy-to-use platform.
 
-*Live Demo (Prototype):* 
-![Home](./src/assets/assets/Screenshot 2025-09-21 203859.png)
-
-
-![Result](./src/assets/Screenshot 2025-09-21 203935.png)
+*Live Demo (Prototype):* https://satya-bay.vercel.app/
  
 *GitHub Repository:* https://github.com/PrajashPatel/Satya
 
