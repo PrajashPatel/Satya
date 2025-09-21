@@ -1,45 +1,46 @@
 # Satya – AI-Powered Misinformation Detection
 
-## 📌 Project Info
-*Goal:* Empower Indian youth to identify and combat misinformation using an AI-powered, easy-to-use platform.
+[![Project Status: WIP – Initial development is in progress, and upcoming versions will include more unique features.][wip-shield]][wip-url]
+[![License: MIT][license-shield]][license-url]
 
-*Live Demo (Prototype):* https://satya-bay.vercel.app/
- 
-*GitHub Repository:* https://github.com/PrajashPatel/Satya
-<a href="https://3min.top"><img width="380" height="200" src="/public/image1.png" alt="Satya Frontened" /></a>
-<a href="https://3min.top"><img width="380" height="200" src="/public/image2.png" alt="Satya Detection" /></a>
+Satya is an easy-to-use, AI-powered platform designed to empower Indian youth to identify and combat the spread of digital misinformation. By providing quick credibility analysis and evidence-based verdicts, Satya aims to foster a more informed and critical digital citizenry.
+
+**Live Demo (Prototype):** https://satya-bay.vercel.app/
+
+### 📸 Screenshots
+
+| Home Dashboard                               | Analysis Result                              |
+| -------------------------------------------- | -------------------------------------------- |
+| ![Satya Frontend](/public/image1.png) | ![Satya Detection](/public/image2.png) |
 
 ---
 
 ## 🚀 Features
-- *Home Dashboard* → Paste news links or text and check credibility.  
-- *Analysis / Result* → Credibility score, plain-language verdict, and evidence snippets from trusted sources.  
-- *Recommendations / Insights* → Tips on spotting misinformation and sharing verified info.  
-- *Community / Support (Optional)* → Connect with experts or awareness groups.  
+
+-   **Home Dashboard**: Paste news links or raw text directly into the interface to check credibility.
+-   **Analysis / Result**: Receive a clear credibility score, a plain-language verdict (e.g., "Likely True," "Misleading"), and evidence snippets from a curated list of trusted sources.
+-   **Recommendations / Insights**: Get actionable tips on how to spot common patterns of misinformation and best practices for sharing verified information.
+-   **Community / Support (Future)**: An optional feature to connect users with digital literacy experts or awareness groups.
 
 ---
 
 ## 🛠 Tech Stack
-- *Backend:* FastAPI (Python)  
-- *AI Integration:* Gemini API + ADK + Grounding in trusted sources  
-- *Frontend:* HTML + CSS (Jinja2 templates for prototype)  
-- *Database (Optional):* MongoDB / Firebase  
-- *Deployment:* Cloud Run / Docker  
+
+-   **Backend:** FastAPI (Python)
+-   **AI Integration:** Google Gemini API with the Agent Development Kit (ADK) and Grounding in trusted sources.
+-   **Frontend:** HTML + CSS (using Jinja2 templates for the prototype).
+-   **Database (Optional):** MongoDB / Firebase for future scalability.
+-   **Deployment:** Cloud Run / Docker.
 
 ---
 
 ## 💻 Installation & Setup
-Clone the repo and run locally:
+
+Follow these steps to set up and run the Satya project on your local machine.
+
+**1. Clone the Repository**
+
+First, clone the project from GitHub to your local computer.
 
 ```bash
-# Step 1: Clone the repository
 git clone https://github.com/PrajashPatel/Satya
-
-# Step 2: Navigate to the project directory
-cd satya
-
-# Step 3: Install dependencies
-pip install -r requirements.txt
-
-# Step 4: Start the development server
-uvicorn app.main:app --reload
