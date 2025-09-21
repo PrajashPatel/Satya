@@ -9,7 +9,7 @@
 
 ![Result](./src/assets/Screenshot 2025-09-21 203935.png)
  
-*GitHub Repository:* [Your GitHub Repo Link]
+*GitHub Repository:* https://github.com/PrajashPatel/Satya
 
 ---
 
@@ -35,7 +35,7 @@ Clone the repo and run locally:
 
 ```bash
 # Step 1: Clone the repository
-git clone <YOUR_REPO_URL>
+git clone https://github.com/PrajashPatel/Satya
 
 # Step 2: Navigate to the project directory
 cd satya
