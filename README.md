@@ -6,6 +6,8 @@
 *Live Demo (Prototype):* https://satya-bay.vercel.app/
  
 *GitHub Repository:* https://github.com/PrajashPatel/Satya
+<a href="https://3min.top"><img width="380" height="200" src="/public/image1.png" alt="Satya Frontened" /></a>
+<a href="https://3min.top"><img width="380" height="200" src="/public/image2.png" alt="Satya Detection" /></a>
 
 ---
 
